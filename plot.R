@@ -1,4 +1,4 @@
 # this file will plot movement with maps
 x <- runif(10)
 y <- runif(10)
-plot(x, y, type = 'l')
+plot(x, y, type = 'l', main = 'This is Probably the Best Plot Ever")
